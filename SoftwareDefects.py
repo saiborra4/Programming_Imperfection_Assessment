@@ -234,3 +234,4 @@ text.config(font=font1)
 
 main.config(bg='CadetBlue1')
 main.mainloop()
+
